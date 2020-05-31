@@ -1,0 +1,4 @@
+#Sun May 31 12:06:49 EDT 2020
+base.0=/home/alex/Android/Projects/Introduction-to-Flutter-Development-Using-Dart/mi_card_flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
