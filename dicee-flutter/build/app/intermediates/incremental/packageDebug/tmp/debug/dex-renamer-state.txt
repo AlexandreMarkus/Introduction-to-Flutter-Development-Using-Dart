@@ -1,0 +1,4 @@
+#Sun Jun 07 21:47:18 EDT 2020
+base.0=/home/alex/Android/Projects/Introduction-to-Flutter-Development-Using-Dart/dicee-flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
